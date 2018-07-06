@@ -1,0 +1,7 @@
+C:\Users\rippl\OneDrive\C#\Videos\Safari\DesignPatterns\designpatterns\designpatterns\bin\Debug\designpatterns.exe.config
+C:\Users\rippl\OneDrive\C#\Videos\Safari\DesignPatterns\designpatterns\designpatterns\bin\Debug\designpatterns.exe
+C:\Users\rippl\OneDrive\C#\Videos\Safari\DesignPatterns\designpatterns\designpatterns\bin\Debug\designpatterns.pdb
+C:\Users\rippl\OneDrive\C#\Videos\Safari\DesignPatterns\designpatterns\designpatterns\obj\Debug\designpatterns.csprojAssemblyReference.cache
+C:\Users\rippl\OneDrive\C#\Videos\Safari\DesignPatterns\designpatterns\designpatterns\obj\Debug\designpatterns.csproj.CoreCompileInputs.cache
+C:\Users\rippl\OneDrive\C#\Videos\Safari\DesignPatterns\designpatterns\designpatterns\obj\Debug\designpatterns.exe
+C:\Users\rippl\OneDrive\C#\Videos\Safari\DesignPatterns\designpatterns\designpatterns\obj\Debug\designpatterns.pdb
